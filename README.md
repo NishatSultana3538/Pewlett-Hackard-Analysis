@@ -16,9 +16,9 @@ Using the sql query file [Employee_Database_Challenge](https://github.com/Nishat
 
 1. Filter the data on the birth_date column to retrieve the employees who were born between 1952 and 1955. Then, order by the employee number.
 
-Retrieved csv file[retirement_info](https://github.com/NishatSultana3538/Pewlett-Hackard-Analysis/blob/main/Data/Challenge7_data/retirement_titles.csv)
+Retrieved csv file[retirement_titles](https://github.com/NishatSultana3538/Pewlett-Hackard-Analysis/blob/main/Data/Challenge7_data/retirement_titles.csv)
 
-![retirement_info](https://github.com/NishatSultana3538/Pewlett-Hackard-Analysis/blob/main/Data/Challenge7_data/retirement.png)
+![retirement_titles](https://github.com/NishatSultana3538/Pewlett-Hackard-Analysis/blob/main/Data/Challenge7_data/retirement.png)
 
 2. There are duplicate entries for some employees because they have switched titles over the years and we need to remove these duplicates and keep only the most recent title of each employee.Retrieved csv file[unique_titles](https://github.com/NishatSultana3538/Pewlett-Hackard-Analysis/blob/main/Data/Challenge7_data/unique_titles.csv)
 
