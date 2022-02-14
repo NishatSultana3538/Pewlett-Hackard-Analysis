@@ -55,12 +55,17 @@ A total of 72458 positions need to be filled where 25916 positions for Senior En
 
 Yes, from the analysis of retirement ready employees we found that a total of 1549 employees who can mentor next generation of Pewlett Hackard employees who hold different senior titles who born in 1965 and will have time to train new employees before they retire.
 
+Here is the two additional queries or tables that provide more insight for this question.
+
+Counting the number of employees who born in 1965 and are qualified mentors.
+ ![retirement_ready](https://github.com/NishatSultana3538/Pewlett-Hackard-Analysis/blob/main/Data/Challenge7_data/retirement_ready_employees.png)
+
+ After filtering employees who born between 1964 to 1967 we got the following number of qualified mentors  who can train new employees before they retire.
+
+![retirement_ready1](https://github.com/NishatSultana3538/Pewlett-Hackard-Analysis/blob/main/Data/Challenge7_data/qualified%20mentor.png)
 
 
  
- ![retirement_ready](https://github.com/NishatSultana3538/Pewlett-Hackard-Analysis/blob/main/Data/Challenge7_data/retirement_ready_employees.png)
-
-  
  ![retirement_ready1](https://github.com/NishatSultana3538/Pewlett-Hackard-Analysis/blob/main/Data/Challenge7_data/retirement_ready_employees2.png)
 
 
